@@ -1,5 +1,8 @@
 TamoDeOlho
 ==========
 
-* Banco dados e funcionalidades - Péricles Lopes Machado [gogo40]
+Autores
+_______
+
+* Banco de dados e funcionalidades - Pï¿½ricles Lopes Machado [gogo40]
 
