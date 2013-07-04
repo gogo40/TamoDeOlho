@@ -4,5 +4,5 @@ TamoDeOlho
 Autores
 _______
 
-* Banco de dados e funcionalidades - Péricles Lopes Machado [gogo40]
+* Banco de dados e funcionalidades - PÃ©ricles Lopes Machado [gogo40]
 
