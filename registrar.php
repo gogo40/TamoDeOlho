@@ -45,6 +45,13 @@ Tela de registro de usuário
 					function (msg) 
 					{
 						console.log(msg);
+						var res = eval("("+msg+")");
+						if (res.status) {
+							alert("Usuário registrado com sucesso!");
+							$(".bg_home").load("index.php");
+						} else {
+							alert("Usuário já registrado!");
+						}
 					}
 				);
 		}
